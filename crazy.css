@@ -1,0 +1,8 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmDyph6nxEeZDOdhsxZQGlbH9uus9OT14lQ&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card:hover{
+    transform:scale(1.1,1.1)
+}

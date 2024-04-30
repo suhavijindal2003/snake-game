@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/SnakeGame/SnakeGame/music"
+		},
+		{
+			"path": "../../Downloads/SnakeGame/SnakeGame/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap",
+		"liveServer.settings.port": 5501
+	}
+}
