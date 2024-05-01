@@ -1,5 +1,5 @@
 body{
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlzONcgxW0U-iOQ5BYgt4RRa-9qh0f6Rmkng&s');
+    background-image: url('https://w0.peakpx.com/wallpaper/67/891/HD-wallpaper-classic-snake-adventures-snake-game.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -24,7 +24,7 @@ body{
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
-    color: antiquewhite;
+    color: rgb(13, 10, 5);
 }
 
 #hiscoreBox{
@@ -32,7 +32,7 @@ body{
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
-    color: antiquewhite;
+    color: rgb(14, 11, 8);
 }
 
 .head{
